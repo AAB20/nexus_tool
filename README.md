@@ -15,7 +15,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/Nexus-Flow.git](https://github.com/YOUR_USERNAME/Nexus-Flow.git)
-   cd Nexus-Flow
+   git clone https://github.com/AAB20/nexus_tool
+   cd nexus_tool
    pip install -r requirements.txt
    python nexus_tool.py
